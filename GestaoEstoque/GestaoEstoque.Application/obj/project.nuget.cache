@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "InjZCc04Uc0M92MP7Xf4NVP0tD0pbZNyKmmDkuJXw6eD5q/WQ50sfEOBufSxG0i3eCFhMKZW4hv06SYPQNZPSQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.Application\\GestaoEstoque.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.antonio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\joao.antonio\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\joao.antonio\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\joao.antonio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\joao.antonio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

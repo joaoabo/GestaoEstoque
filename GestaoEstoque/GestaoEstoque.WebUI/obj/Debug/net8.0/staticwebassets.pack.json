@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GestaoEstoque.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestaoEstoque.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\borracha.webp",
+      "PackagePath": "staticwebassets\\image\\borracha.webp"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\caderno.webp",
+      "PackagePath": "staticwebassets\\image\\caderno.webp"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\estojo.jpg",
+      "PackagePath": "staticwebassets\\image\\estojo.jpg"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\lapis.jpg",
+      "PackagePath": "staticwebassets\\image\\lapis.jpg"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\produto-sem-imagem.webp",
+      "PackagePath": "staticwebassets\\image\\produto-sem-imagem.webp"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\image\\suporte.jpg",
+      "PackagePath": "staticwebassets\\image\\suporte.jpg"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ProjetosMeu\\GestaoEstoque2\\GestaoEstoque\\GestaoEstoque.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestaoEstoque.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestaoEstoque.WebUI.props",
+      "PackagePath": "build\\GestaoEstoque.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestaoEstoque.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\GestaoEstoque.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestaoEstoque.WebUI.props",
+      "PackagePath": "buildTransitive\\GestaoEstoque.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

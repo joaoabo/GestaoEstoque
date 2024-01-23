@@ -1,0 +1,41 @@
+A camada de infraestrutura é a camada mais externa da arquitetura que lida com as necessidades de infraestrutura e fornece
+a implementação de suas interfaces de repositório.
+
+É nesta camada que conectamos a lógica de acesso a dados ou a lógica de chamadas de serviço. Apenas a camada de infraestrutura deve
+saber sobre o banco de dados e a tecnologia de acesso a dados(Entity framework, ADO.NET, etc.), as demais camadas não devem
+saber de onde vem os dados e como estão sendo armazenados.
+
+Pastas:
+Contexto => Onde vamos definir o contexto da aplicação (DbContext) e mapeamento ORM;
+ConfiguracaoEntidades => Onde vamos definir as configurções (Fluent API) das entidades do contexto;
+Repositorio => Onde vamos implementar as interfaces dos repositorios para Categoria e Produto;
+Identidade =>  Onde definimos as configurações e os recursos de autenticação e autorização do Identity;
+
+
+Instalar dependencias do Nuget:
+Microsoft.EntityFrameworkcore.SqlServer
+Microsoft.EntityFrameworkcore.Tools
+Microsoft.EntityFrameworkcore.Design
+
+Por que preciso configurar as entidades do modelo usando a Fluent API?
+Porque vou usar o EF Core na abordagem Code-First
+Nesta abordagem partimos das entidades do modelo de dominio definidas no contexto e criamos o banco de dados e as tabelas
+
+Na abordagem de Code-First o EF Core segue convenções para gerar o banco de dados e as tabelas
+- O banco de dados será gerado com base no provedor informado e na string de conexão
+- Para gerar as tabelas ele verifica as entidades mapeadas no arquivo de contexto (AplicacaoDbContext)
+- E gera as tabelas no banco de dados com os nomes definidos no mapeamento (DbSet<T>)
+- Com base nas propriedades definidas no modelo de dominio ele gera as colunas das tabelas com o mesmo nome das propriedades
+
+Problemas
+- O tipo de dado string será mapeado para uma coluna do tipo nvarchar(max) e nullable igual a true => poder ser nula
+- O tipo de decimal sera mapeado para uma coluna do tipo decimal(18,2) e sera emitida uma mensagem de alerta para perda de dados por problema de precisão
+
+
+
+FAZENDO IMPLEMENTAÇÃO DE USUARIOS
+
+1° vamos instalar "Microsoft.AspNetCore.Identity.EntityFrameworkCore" e "Microsoft.AspNetCore.Identity"
+2° na classe AplicacaoDbContext vamos trocar a referencia de DbContext para IdentityDbContext<tipo>ApplicationUser
+3° na classe ApplicationUser vamos herdar de IdentityUser
+4° rodar migration

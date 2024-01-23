@@ -1,0 +1,72 @@
+Identity
+
+A ASP.NET Core Identity, armazena informações do usuario em um banco de dados SQL Server usando o Entity Framework Core.
+
+Os recursos do Identity estão inclusos nos templates de projeto do Visual Studio com a opção Individual User Accounts ou
+Contas de Usuario Individual.
+
+Todas as implementações do Identity que usam esses templates possuem um forte acoplamento da camada de apresentação com 
+o Entity Framework
+
+Como fazer o Identity funcionar na camada de apresentação, respeitando as regras da Clean Architecture?
+1° Oque vamos implementar?
+R= Implementar o Login e o registro do usuario e a verificação da autenticação, usando os recursos da ASP.NET Core Identity
+
+A SOLUÇÃO PROPOSTA
+- Abstrair "não considerar" as dependências da ASP.NET Core Identity para a camada "Infra.Data"
+- Configurar o serviço do Identity na camada Infra.IoC
+- Criar interfaces na camada "Domain" para recursos de Autenticação e para Usuario
+- Fazer as implementações dos recursos do Identity na camada de apresentação usando a injeção de dependencia
+
+ABORDAGEM
+- Implementar o armazenamento no mesmo banco de dados usado pela aplicação
+- Usar o mesmo arquivo de contexto(AplicacaoDbContext) da aplicação
+- A classe de contexto vai herdar da classe "base IdentityDbContext<ApplicationUser>"
+
+AUTENTICAÇÃO E AUTORIZAÇÃO
+
+Quem é você?
+A "autenticação" é um processo no qual um usuario fornece credenciais que são comparadas àquelas previamente armazenadas.
+Se houver correspondencia, os usuarios serão autenticados com exito e poderão executar as ações para as quais estão 
+autorizados, durante um processo de autorização.
+
+O que você pode fazer?
+A "autorização" se refere ao processo que determina o que um usuario tem permissão para fazer, ou seja, a autorização se
+refere a permitir que o usuario autenticado possa realizar determinada ação.
+
+
+Autenticação é feita na  Class Startup
+
+Método ConfigureServices()
+[ services.AddAuthentication(); ]
+Define e registra o esquema de autenticação a ser usado pelo middleware (Cookie, JWT Bearer, etc)
+
+Método Configure()
+[ app.UserAuthentication(); ]
+Registra o middleware de autenticação que usa o esquema de autenticação registrado.
+Deve ser usado antes de qualquer middleware que dependa de usuarios autenticados
+
+[ app.UseAuthorization(); ]
+Habilita o middleware de autorização que autoriza um usuario a acessar o recursos seguros
+
+Autorização - Atributos [Authorize] e [AllowAnonymous]
+
+Atributo [Authorize]
+É um atributo declarativo que pode ser aplicado a um controlador ou metodo Action
+Permite restringir  o acesso a recursos com base em Roles.
+Se você usar o atributo sem nenhum argumento, ele verifica apenas se o usuario esta autenticado
+
+Atributo [AllowAnonymous]
+Permite o acesso aos metodos Actions a usuarios não autenticados
+
+
+ASP.NET Core Identity - Recursos para Autorização
+
+A autorização se dá por meio de "Roles, Claims e Policies", que restringem ou permitem o acesso do usuario a determinada
+parte da aplicação
+
+Um "Role (Perfil)" é um papel, uma função, um cargo, algo que define acesso a um ou um grupo de usuarios a partes da
+aplicação. É usada para identificar um grupo de usuarios que contém caracteristicas distintas como admin, gerente etc.
+
+As Policies (Politicas) nada mais são que as aplicações de "Roles e Claims" para determinar contratos de acessos a
+determinadas areas de uma aplicação. Elas definem politicas de segurança mais rica e robusta.

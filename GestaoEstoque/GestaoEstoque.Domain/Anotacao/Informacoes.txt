@@ -1,0 +1,6 @@
+Entidades: contem as classes "Categoria" e "Produto". Que representam o nosso modelo de dominio
+Interfaces: Contem as interfaces "ICategoriaRepositorio" e "IProdutoRepositorio"
+Validacao: Contem a Classe DomainExceptionValidacao. Para validar o modelo de dominio
+
+Criado as Interfaces de autenticar
+na pasta Account. IAuthenticate e ISeedUserRoleInitial 

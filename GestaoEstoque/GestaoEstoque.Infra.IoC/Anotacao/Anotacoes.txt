@@ -1,0 +1,7 @@
+Na implementação da injeção de dependência na ASP.NET Core, temos o conceito de (lifetimes ou "tempo de vidas") 
+que especifica quando um objeto injetado é criado ou recriado
+
+
+TRANSIENT (AddTransient) - Cria os objetos a cada vez que forem solicitados
+SCOPED (AddScoped) - Cria os objetos uma vez por solicitação
+SINGLETON (AddSingleton) - Cria os objetos apenas na primeira vez que for solicitado
